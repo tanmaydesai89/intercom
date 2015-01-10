@@ -1,0 +1,30 @@
+{
+  "name": "intercom",
+  "main": "mixpanel.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "tasks",
+    "component.json",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "ender.js",
+    "Gruntfile.js",
+    "package.js",
+    "package.json"
+  ],
+  "homepage": "https://github.com/tanmaydesai89/intercom",
+  "_release": "544587fcb3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "544587fcb388457bbaed86383a375c3aa0e50c94"
+  },
+  "_source": "https://github.com/tanmaydesai89/intercom.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/tanmaydesai89/intercom.git",
+  "_direct": true
+}
